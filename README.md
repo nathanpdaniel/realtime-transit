@@ -6,6 +6,8 @@ Uses [Leaflet Realtime](https://github.com/perliedman/leaflet-realtime) with ser
 2. Use order_across or order_from_center to position train between stations.
 Get [MARTA Train Station Data](https://georgia-transit.carto.com/viz/b22db620-fdfe-11e6-86bd-0e05a8b3e3d7/table)
 
+Icons are currently misplaced because the calculations are using the end-of-the-line rather than the next stop.
+
 # Installation
 
 Clone the Quick Start repository
@@ -21,8 +23,4 @@ $ npm install -g electron
 
 $ electron
 
-Drag the docs/index.html file onto the Electron app.
-
-You should then see a Leaflet map with train icons.
-
-The icons are currently mis-placed because the calculations are using the end-of-the-line rather than the next stop.
+Drag the docs/index.html file onto the Electron app to view the Leaflet map with train icons.
