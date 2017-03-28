@@ -8,10 +8,10 @@ Get [MARTA Train Station Data](https://georgia-transit.carto.com/viz/b22db620-fd
 
 # Installation
 
-# Clone the Quick Start repository
+Clone the Quick Start repository
 $ git clone https://github.com/modular-map/realtime-transit
 
-# Go into the repository
+Go into the repository
 $ cd realtime-transit
 <!--
 # Install the dependencies and run
