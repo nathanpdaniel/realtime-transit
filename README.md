@@ -10,10 +10,10 @@ Icons are currently misplaced because the calculations are using the end-of-the-
 
 # Installation
 
-Clone the Quick Start repository
+Clone the Quick Start repository<br>
 $ git clone https://github.com/modular-map/realtime-transit
 
-Go into the repository
+Go into the repository<br>
 $ cd realtime-transit
 <!--
 # Install the dependencies and run
