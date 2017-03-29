@@ -1,0 +1,14 @@
+{
+  "name": "marta",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "/Users/nathanpdaniel/.nvm/versions/node/v6.9.1/lib/node_modules/electron/dist/Electron.app/Contents/MacOS/Electron ~/Desktop/code/hackathon/marta"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0"
+  },
+  "dependencies": {
+    "electron": "^1.4.15"
+  }
+}

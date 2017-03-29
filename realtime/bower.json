@@ -1,0 +1,21 @@
+{
+  "name": "marta",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "Nathan P Daniel <nathan@mylumper.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/borgbean/marta",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "^1.0.3"
+  }
+}
